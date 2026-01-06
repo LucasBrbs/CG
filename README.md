@@ -1,8 +1,8 @@
 # Trabalho Final Computação Gráfica
 
-Esse trabalho foi feito utilizando o Google Collab e importado para o github.
-Devido a isso, é recomendado que realize a execução pela própria ferramenta (Collab) que já possui integradas várias bibliotecas utilizadas nesse projeto.
-Para acessar o arquivo dessa forma basta clicar duas vezes ou abrir pelo editor de código Visual Studio Code, e então, clicar na opção "Open in Collab" presente no arquivo.
+Esse trabalho foi feito utilizando o Google Colab e importado para o github.
+Devido a isso, é recomendado que realize a execução pela própria ferramenta (Colab) que já possui integradas várias bibliotecas utilizadas nesse projeto.
+Para acessar o arquivo dessa forma basta clicar duas vezes ou abrir pelo editor de código Visual Studio Code, e então, clicar na opção "Open in Colab" presente no arquivo.
 
 <img width="150" height="70" alt="image" src="https://github.com/user-attachments/assets/13bad163-8070-4bb0-86cc-d45c70903424" />
 
